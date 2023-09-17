@@ -1,0 +1,18 @@
+---
+object: set
+id: a80b4ba1-7485-4c16-b745-eeea904863c3
+code: ddm
+mtgo_code: ddm
+arena_code: ddm
+tcgplayer_id: 1166
+name: 'Duel Decks: Jace vs. Vraska'
+uri: https://api.scryfall.com/sets/a80b4ba1-7485-4c16-b745-eeea904863c3
+scryfall_uri: https://scryfall.com/sets/ddm
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addm&unique=prints
+released_at: '2014-03-14'
+set_type: duel_deck
+card_count: 88
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddm.svg?1694404800
